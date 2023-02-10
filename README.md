@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was with React and CSS. Please check here: [Antman_Carousel](https://antman-quantumania.netlify.app/).
 
 ## Available Scripts
 
