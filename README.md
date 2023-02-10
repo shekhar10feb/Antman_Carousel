@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Antman_Carousel
 
-This project was with React and CSS. Please check here: [Antman_Carousel](https://antman-quantumania.netlify.app/).
+This project was made with React and CSS. Please check here: [Antman_Carousel](https://antman-quantumania.netlify.app/).
 
 ## Available Scripts
 
