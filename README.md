@@ -1,8 +1,3 @@
-Antman_Carousel
-
-This project was made with React and CSS. Please check here: Antman_Carousel.
-Available Scripts
-=======
 # Antman_Carousel
 
 This project was made with React and CSS. Please check here: [Antman_Carousel](https://antman-quantumania.netlify.app/).
